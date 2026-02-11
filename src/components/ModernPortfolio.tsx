@@ -61,7 +61,7 @@ const ModernPortfolio = () => {
               <div className="relative w-full aspect-square max-w-[400px] mx-auto">
                 <div className="absolute inset-0 bg-blue-500/20 rounded-full blur-[80px]"></div>
                 <div className="relative z-10 w-full h-full rounded-3xl overflow-hidden border-2 border-slate-700 p-2 bg-slate-800/50 backdrop-blur-sm">
-                  <img src="/profile.jpg" alt="Venkatrao Thallapalli" className="w-full h-full object-cover rounded-2xl" />
+                  <img src="venkat_profile.png" alt="Venkatrao Thallapalli" className="w-full h-full object-cover rounded-2xl" />
                 </div>
               </div>
             </motion.div>
